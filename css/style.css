@@ -10,6 +10,7 @@ section{
     box-sizing: border-box;
     margin-top: 10px;
     width: 100%;
+    padding-left:20px;
 }
 .title{
     position: fixed;
@@ -32,9 +33,7 @@ h3{
 .info,.summary,.edu,.training,.ticknicalS,.persS{
     width: 100%;
     height: auto;
-    position: relative;
     margin-top: 100px;
-   margin-left: 33px;
    margin-bottom: 20px;
 }
 .summary,.edu,.training,.ticknicalS,.persS{
