@@ -17,5 +17,8 @@ $("document").ready(function(){
     $("#pers").click(function(){
         $(".pers-skils").slideToggle();
     });
+    $("#project").click(function(){
+        $(".proj1").slideToggle();
+    });
     
 });
